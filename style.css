@@ -1,0 +1,79 @@
+h2{
+	color: #191970;
+	font-size: 24px;
+}
+body{
+	font-family: calibri
+}
+h3{
+	color:black;
+	font-style: italic;
+
+}
+strong{
+	font-style: italic;
+}
+img{
+	margin-right: auto;
+	margin-left:auto;
+	display:block;
+	border-radius: 50%;
+}
+.img{
+	background-color:#F0FFFF;
+}
+.title {
+ text-align: center;
+ padding: 30px;
+ background-color: #F0FFFF;
+}
+.Contact{
+	margin:40px auto;
+	text-align: justify;
+	width:350px;
+	border-radius: 10px;
+	background-color: #33CCFF;
+	padding:5px;
+	display: table
+	box-shadow:10px 2px 3px black;
+}
+.Description{
+	margin:40px auto;
+	text-align: justify;
+	width:700px;
+	border-radius: 5px;
+	background-color: #33CCFF;
+	padding:10px;
+}
+.competence{
+	margin:40px auto;
+	text-align: justify;
+	width:700px;
+	border-radius: 5px;
+	background-color: #33CCFF;
+	padding:10px;
+}
+.interest{
+	margin:40px auto;
+	text-align: justify;
+	width:350px;
+	border-radius: 5px;
+	background-color: #33CCFF;
+	padding:10px;
+}
+.pro{
+	margin:40px auto;
+	text-align: justify;
+	width:700px;
+	border-radius: 5px;
+	background-color: #33CCFF;
+	padding:10px;
+}
+.Formation{
+	margin:40px auto;
+	text-align: justify;
+	width:700px;
+	border-radius: 5px;
+	background-color: #33CCFF;
+	padding:10px;
+}
